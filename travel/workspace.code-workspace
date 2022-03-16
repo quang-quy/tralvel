@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Videos\\Captures"
+		},
+		{
+			"path": "..\\..\\Music"
+		},
+		{
+			"path": "..\\CMD utf-8"
+		},
+		{
+			"path": "..\\CJ"
+		},
+		{
+			"path": "..\\asm 3"
+		},
+		{
+			"path": "..\\Tổng\\menu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
